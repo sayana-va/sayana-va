@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/sayana/">
+<a href="https://www.linkedin.com/in/sayana-ammu">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:assayana03@gmail.com">
