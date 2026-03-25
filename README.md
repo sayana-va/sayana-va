@@ -17,7 +17,7 @@
 <a href="https://github.com/sayana-va">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </a>
-<a href="resume\sayana va Resume.pdf">
+<a href="resume\sayana_dataanalyst_resume.pdf">
   <img src="https://img.shields.io/badge/Resume-1abc9c?style=flat&logo=google-chrome&logoColor=white"/>
 </a>
 
